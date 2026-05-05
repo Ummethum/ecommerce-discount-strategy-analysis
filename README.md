@@ -67,8 +67,8 @@ recommendation.
 Clone the repo and install the dependencies:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/Ummethum/ecommerce-discount-strategy-analysis.git
+cd ecommerce-discount-strategy-analysis
 pip install pandas seaborn matplotlib
 ```
 
